@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="edit_Text">Write your name</string>
+    <string name="button_send">Next</string>
+</resources>
